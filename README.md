@@ -26,7 +26,7 @@
 
 ## 🧪 Demo
 
-> Try the live app here: 
+> Try the live app here: goal-sync.vercel.app
 
 ---
 
